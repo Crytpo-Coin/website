@@ -10,6 +10,8 @@ theme = "adidoks"
 # Note: the search index doesn't support Chinese/Japanese/Korean Languages
 default_language = "en"
 
+output_dir = "docs"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
