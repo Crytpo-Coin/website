@@ -1,10 +1,3 @@
-# The official website of Crytpo-Coin
+# Crytpo-Coin website
 
-
-
-
-
-
-## How to clone this repository
-
-`git clone --recurse-submodules https://github.com/Crytpo-Coin/website`
+Built using the Hugo Doks theme.

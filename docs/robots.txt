@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://crytpo.github.io/sitemap.xml
