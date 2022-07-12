@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Crytpo-Coin</title>
+	<subtitle>Crytpo-Coin is a new cryptocurrency that is secured by lockchain technology.</subtitle>
+	<link href="https://crytpo-coin.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://crytpo-coin.github.io/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-06-30T00:00:00+00:00</updated>
+	<id>https://crytpo-coin.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Atri Hegde</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/authors/atri/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/authors/atri/</id>
+		<content type="html">&lt;p&gt;Founding memeber of the &lt;strong&gt;Crytpo-Coin&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;httpis:&#x2F;&#x2F;github.com&#x2F;hegde-atri&quot;&gt;@hegde-atri&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Finn van Montfort</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/authors/finn/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/authors/finn/</id>
+		<content type="html">&lt;p&gt;Founding memeber of the &lt;strong&gt;Crytpo-Coin&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;httpis:&#x2F;&#x2F;github.com&#x2F;TheCheesyWiggle&quot;&gt;@TheCheesyWiggle&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Harley O&#x27;Connor</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/authors/harley/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/authors/harley/</id>
+		<content type="html">&lt;p&gt;Founding memeber of the &lt;strong&gt;Crytpo-Coin&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;httpis:&#x2F;&#x2F;github.com&#x2F;Harleyoc1&quot;&gt;@Harleyoc1&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>The First Meeting</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/blog/first-meeting/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/blog/first-meeting/</id>
+		<content type="html">&lt;p&gt;Today we had our first meeting at a coffee shop. We sat down excited and made some fundamental decisions for this project. We created the
+github organization and debated on the technologies we would be using to implement our ideas.
+We decided that we were gonna use rust rather than kotlin for this project and made ourselves a roadmap for it. We pulled in resources
+from all over the web to help us, and shared our knowledge and preferences.&lt;&#x2F;p&gt;
+&lt;p&gt;We all came to an agreement on how we were gonna get started for this project.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;First we will start off by becoming used to rust, i.e. the syntax, and programming style, etc.&lt;&#x2F;li&gt;
+&lt;li&gt;Then we shall start to learn how to code the components that make a cryptocurrency, i.e. p2p networks, the lockchain, etc.&lt;&#x2F;li&gt;
+&lt;li&gt;Then we start contributing to the official Crytpo-Coin repository on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Crytpo-Coin&quot;&gt;github&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You can check our goals and roadmaps &lt;a href=&quot;&#x2F;docs&#x2F;roadmap&#x2F;inital&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Crytpo Coin</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/docs/getting-started/introduction/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/docs/getting-started/introduction/</id>
+		<content type="html">&lt;h2 id=&quot;technologies-used&quot;&gt;Technologies used&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;This section will be updated soon.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;help&quot;&gt;Help&lt;&#x2F;h2&gt;
+&lt;p&gt;Get help on Doks. &lt;a href=&quot;&#x2F;docs&#x2F;help&#x2F;faq&#x2F;&quot;&gt;Help →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>FAQ</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/docs/help/faq/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/docs/help/faq/</id>
+		<content type="html">&lt;h2 id=&quot;what-is-the-crytpo-coin&quot;&gt;What is the Crytpo-Coin?&lt;&#x2F;h2&gt;
+&lt;p&gt;Crytpo-Coin, is a cryptocurrency project made by some Computer Science students to become familiar with blockchain technology.
+It is also our first project using the programming language rust.&lt;&#x2F;p&gt;
+&lt;p&gt;To make Crytpo-Coin we have done several different things:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The (b)lockchain technology.&lt;&#x2F;li&gt;
+&lt;li&gt;Proof-of-Stake (PoS) model.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;and plan to include &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Delegation.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;keyboard-shortcuts-for-search&quot;&gt;Keyboard shortcuts for search?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;focus: &lt;code&gt;&#x2F;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;select: &lt;code&gt;↓&lt;&#x2F;code&gt; and &lt;code&gt;↑&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;open: &lt;code&gt;Enter&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;close: &lt;code&gt;Esc&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;contact-the-creator&quot;&gt;Contact the creator?&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;This section will be updated soon.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Iteration 1</title>
+		<published>2022-06-30T00:00:00+00:00</published>
+		<updated>2022-06-30T00:00:00+00:00</updated>
+		<link href="https://crytpo-coin.github.io/docs/roadmap/inital/" type="text/html"/>
+		<id>https://crytpo-coin.github.io/docs/roadmap/inital/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Create the Crytpo repository and start coding&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+The lockchain&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Wallet generation&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Implement p2p network&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Proof-of-Stake (PoS)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Get starred by &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;julieheard&quot;&gt;Julie Heard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
